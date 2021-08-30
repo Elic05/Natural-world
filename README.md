@@ -117,6 +117,15 @@ void branch(float len) {
 
 <img src="https://user-images.githubusercontent.com/89703720/131333357-1213c022-dde2-436d-a37b-705308ba0c85.png" width="350" height="350">
 
+Elements composing each NFT:
+- Tree branches
+- Leaf color
+- Seed (made in photoshop)
+- Watercolour background (hand painted - different shapes)
+
+For the 1 step a number of 1018 trees will be generated.
+
+
 # Seeds - Reward
 The first step 100 trees will be created and sold accompanied by a little seed which will generate a new tree in 30 days.
 
