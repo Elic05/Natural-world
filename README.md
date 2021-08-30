@@ -33,6 +33,88 @@ seed (chosen from and array of png images created in photoshop)
 The amount of watercolour backgrounds will increase in time, we will always create new images.
 A number of 1018 will be created.
 
+```
+void branch(float len) {
+
+  float theta = random (0.15, PI/3);
+  float n = random (60);
+  float swt = map(len, 2.6, 90, 0.2, 2.0);
+  //stroke(255)
+  strokeWeight(swt);
+  drawLine(0, 0, 0, -len, swt);
+  translate(0, -len);
+  len *= 0.68;
+  
+  if (firstTime) {
+    len = 120;
+    firstTime = false;
+  }
+  
+  if (len > 1.1) {
+    
+    pushMatrix();  
+    rotate(random(-1,1)*PI/3.5); 
+    
+    translate(0, theta); 
+    branch(len);      
+    popMatrix();     
+ 
+  if (n<30) {
+    
+    pushMatrix();
+    rotate(theta);
+     
+    translate(0, theta);
+    branch(len);
+    popMatrix();   
+  }
+  
+  else if (n>60) {
+    
+    pushMatrix();
+    rotate(-theta/2);   // Version 1
+    line(0, 0, 0, -len);
+    translate(0,-len);
+    branch(len);
+    popMatrix();
+      
+    }
+  }
+}
+
+    void drawLine(float strtx, float strty, float finx, float finy, float swIn) { 
+  
+    int numSegs = 10;
+    float fraction = 0;
+    int  divBy = numSegs;
+    float x1 = strtx;
+    float y1 = strty;
+    float startWidth ;
+   
+    if (firstTime) startWidth  = 2.3;
+    else startWidth = swIn;
+    stroke(50);
+ 
+    strokeWeight(startWidth);   
+    beginShape();
+  
+    fill(col[int(random(col.length))], random (leafHue, 105), random (leafSat, 150));
+    strokeWeight(startWidth);
+    ellipse(strtx + sin(fraction)*finx-x1, strty - cos(fraction)*finy-y1, 8, 3);
+    
+    for (int j = 0; j <= int (numSegs); j++) {
+    float x = (randomGaussian()*.1) + x1 + (fraction * (finx-x1));
+    float y = (randomGaussian()*.1) + y1 + (fraction * (finy-y1));
+    vertex(x, y);
+    x1 = x;
+    y1 = y;
+    fraction = 1.0/divBy--;   
+ }
+    endShape();  
+ }
+ 
+```
+
 # SEEDS - REWARD
 The first step 100 trees will be created and sold accompanied by a little seed which will generate a new tree in 30 days.
 
@@ -58,3 +140,14 @@ All holders will together build a growing community around τὰ φυσικὰ. 
 - Reward for NFTs holders
 - Proof of membership
 - Exchange of art and Indorse token
+
+# Links: 
+video: https://www.youtube.com/watch?v=kzkI86li99k
+devpost: https://devpost.com/software/natural-world
+
+# Prototype:
+<img src="https://user-images.githubusercontent.com/89703720/131332257-91245956-a942-4b9b-871b-36cb8616738b.png" width="350" height="350">
+<img src="https://user-images.githubusercontent.com/89703720/131332335-17628485-c88b-47b5-a50f-392dccd08e30.png" width="350" height="350">
+
+
+
