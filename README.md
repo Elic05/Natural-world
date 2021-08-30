@@ -111,7 +111,7 @@ void branch(float len) {
 
 <img src="https://user-images.githubusercontent.com/89703720/131333357-1213c022-dde2-436d-a37b-705308ba0c85.png" width="350" height="350">
 
-Each NFT pis composed of 4 different components:
+Each NFT is composed of 4 different components:
 - tree branches (direction, height, length)
 - leaves colours (hue)
 - watercolour hand painted background - with different shapes 
