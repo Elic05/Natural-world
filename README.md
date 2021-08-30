@@ -25,13 +25,7 @@ For us fractals are a common artistic language that connect us and nature.
 
 # How?
 τὰ φυσικὰ is a Generative Art NTF collection of trees inspired to fractals, each art is unique and unpredictable. 
-The collection is developed in Processing thought the implementation random variables, each piece presents the union of 4 different components:
-tree branches (direction, height, length)
-leaves colours (hue)
-watercolour hand painted background - with different shapes (chosen from an array of images)
-seed (chosen from and array of png images created in photoshop)
-The amount of watercolour backgrounds will increase in time, we will always create new images.
-A number of 1018 will be created.
+The collection is developed in Processing thought the implementation random variables composing the elemenths of each art piece.
 
 ```
 void branch(float len) {
@@ -117,14 +111,14 @@ void branch(float len) {
 
 <img src="https://user-images.githubusercontent.com/89703720/131333357-1213c022-dde2-436d-a37b-705308ba0c85.png" width="350" height="350">
 
-Elements composing each NFT:
-- Tree branches
-- Leaf color
-- Seed (made in photoshop)
-- Watercolour background (hand painted - different shapes)
+Each NFT pis composed of 4 different components:
+- tree branches (direction, height, length)
+- leaves colours (hue)
+- watercolour hand painted background - with different shapes 
+- seed (created in photoshop)
 
-For the 1 step a number of 1018 trees will be generated.
-
+The amount of watercolour backgrounds will increase in time, we will always create new images.
+A number of 1018 will be created.
 
 # Seeds - Reward
 The first step 100 trees will be created and sold accompanied by a little seed which will generate a new tree in 30 days.
