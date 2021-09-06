@@ -163,14 +163,14 @@ void draw() {
   if (n<30) {
     
     pushMatrix();
-    rotate(theta);
+    rotate(theta/2);
      
     translate(0, theta);
     branch(len);
     popMatrix();   
   }
   
-  else if (n>60) {
+  else if (n>70) {
     
     pushMatrix();
     rotate(-theta/2);   // Version 1
