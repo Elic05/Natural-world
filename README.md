@@ -148,6 +148,7 @@ All holders will together build a growing community around τὰ φυσικὰ. 
 
 # Links: 
 video: https://www.youtube.com/watch?v=kzkI86li99k
+Short video: https://youtu.be/eZjNPJuwDZs
 devpost: https://devpost.com/software/natural-world
 
 # Prototype:
