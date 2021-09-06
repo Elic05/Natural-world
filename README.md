@@ -150,6 +150,7 @@ All holders will together build a growing community around τὰ φυσικὰ. 
 video: https://www.youtube.com/watch?v=kzkI86li99k
 Short video: https://youtu.be/eZjNPJuwDZs
 devpost: https://devpost.com/software/natural-world
+Web Page (under construction): https://elic05.github.io/natural-world-web-page/
 
 # Prototype:
 <img src="https://user-images.githubusercontent.com/89703720/131332257-91245956-a942-4b9b-871b-36cb8616738b.png" width="350" height="350">
