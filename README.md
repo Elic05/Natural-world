@@ -143,9 +143,9 @@ All NFT holders will have access to some benefits:
 # Proyect Token
 - Reward for NFTs holders
 - Proof of membership
-- Exchange of art and Indorse token
+- Exchange of art and Indorse token!
 
-<img src="https://user-images.githubusercontent.com/89703720/134198327-f45c4668-ae6d-415a-bff6-196e0cf260a3.png" width="1171">
+<img src="Schermata 2021-09-21 alle 18 37 56" src="https://user-images.githubusercontent.com/89703720/134202244-a9b28f56-5328-485c-8388-f2696c2fbbba.png" width="1171">
 
 # Links: 
 Web Page (under construction): https://elic05.github.io/natural-world-web-page/
