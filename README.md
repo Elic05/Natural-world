@@ -147,8 +147,6 @@ All NFT holders will have access to some benefits:
 
 <img width="1040" alt="Schermata 2021-09-21 alle 18 37 56" src="https://user-images.githubusercontent.com/89703720/134202472-b1eeac78-74b2-4290-b436-0b238f9878bd.png">
 
-# Links: 
-Web Page (under construction): https://elic05.github.io/natural-world-web-page/
 
 # Prototype:
 <img src="https://user-images.githubusercontent.com/89703720/131332257-91245956-a942-4b9b-871b-36cb8616738b.png" width="350" height="350">
