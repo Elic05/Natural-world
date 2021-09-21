@@ -145,7 +145,7 @@ All NFT holders will have access to some benefits:
 - Proof of membership
 - Exchange of art and Indorse token!
 
-<img src="Schermata 2021-09-21 alle 18 37 56" src="https://user-images.githubusercontent.com/89703720/134202244-a9b28f56-5328-485c-8388-f2696c2fbbba.png" width="1171">
+<img width="1040" alt="Schermata 2021-09-21 alle 18 37 56" src="https://user-images.githubusercontent.com/89703720/134202472-b1eeac78-74b2-4290-b436-0b238f9878bd.png">
 
 # Links: 
 Web Page (under construction): https://elic05.github.io/natural-world-web-page/
