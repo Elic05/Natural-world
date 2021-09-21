@@ -121,7 +121,7 @@ The amount of watercolour backgrounds will increase in time, we will always crea
 A number of 1018 will be created.
 
 # Seeds - Reward
-The first step 100 trees will be created and sold accompanied by a little seed which will generate a new tree in 30 days.
+The first trees will be created and sold accompanied by a little seed which will generate a new tree in 30 days.
 
 # Future Development
 For the future we want to develop the Step 2.0 of the project. 
