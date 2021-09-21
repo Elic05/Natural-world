@@ -130,14 +130,13 @@ This will give each buyer the opportunity to click and choose the favourite tree
 # NFTs Community
 All holders will together build a growing community around τὰ φυσικὰ. As a reward and proof of membership to each member (as long as she/he has the art) will be given the project token as a benefit.
 
-# Benefits Indorse
-- All NFT holders will have access to some benefits:
+# Benefits 
+All NFT holders will have access to some benefits:
 - Giveaways and drops (NFT holders)
 - Competitions (NFT holder and artists/developers/interested people in taking part in the project and receive benefits)
 - Full commercial rights 
 - Early access or discounts to future drops
 - Project token
-- NFTs can be acquired with indorse token
 - Auctions
 - Seed reward (each seed generates a new tree)
 
