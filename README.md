@@ -145,6 +145,8 @@ All NFT holders will have access to some benefits:
 - Proof of membership
 - Exchange of art and Indorse token
 
+<img src="https://user-images.githubusercontent.com/89703720/134198327-f45c4668-ae6d-415a-bff6-196e0cf260a3.png" width="1171">
+
 # Links: 
 video: https://www.youtube.com/watch?v=kzkI86li99k
 Short video: https://youtu.be/eZjNPJuwDZs
